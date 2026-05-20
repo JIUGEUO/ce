@@ -1,0 +1,12 @@
+{
+  "name": "HKDai",
+  "symbol": "HKDAI",
+  "description": "HKDai brand token on Solana.",
+  "image": "https://cdn.jsdelivr.net/gh/<GITHUB_USER>/hkdai-assets@main/logo.png",
+  "external_url": "",
+  "extensions": {
+    "twitter": "",
+    "telegram": "",
+    "website": ""
+  }
+}
